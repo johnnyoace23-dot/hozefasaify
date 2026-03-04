@@ -69,7 +69,7 @@ RepositoryDescriptionTech Stack📊 eda-101Exploratory Data Analysis on real-wor
 📊 Data Visualization🗄️ SQL & Databases🔢 Probability TheoryTelling stories through chartsQuerying & managing structured dataFoundation of statistical inference
 </div>
 
-🎯 2025 Goals
+🎯 2026 Goals
 
  🎓 Start BSc in Data Science
  📁 Complete 5 end-to-end data science projects
